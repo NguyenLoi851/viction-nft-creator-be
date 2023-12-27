@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "backend-base",
+      "script": "dist/main.js"
+    }
+  ]
+}
